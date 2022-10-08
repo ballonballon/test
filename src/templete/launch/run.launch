@@ -1,0 +1,6 @@
+<launch>
+    <!--  ************** Map **************  -->
+    <node name="main" pkg="templete" type="main" output="screen">
+        <param name="pitch" type="double" value="23.0"/>
+    </node>
+</launch>

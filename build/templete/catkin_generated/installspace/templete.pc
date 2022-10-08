@@ -1,0 +1,8 @@
+prefix=/home/wuster/study/ROS_Study/ros_ws/install
+
+Name: templete
+Description: Description of templete
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
