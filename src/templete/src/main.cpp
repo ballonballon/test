@@ -2,7 +2,7 @@
  * @Description: 
  * @Author: liukai
  * @Date: 2022-09-23 18:01:16
- * @LastEditTime: 2022-09-26 18:00:07
+ * @LastEditTime: 2022-10-08 14:12:24
  * @LastEditors: liukai
  */
 /*
@@ -11,7 +11,6 @@
 #include "ros/ros.h"
 
 double test=1.0;
-
 
 int main(int argc, char *argv[])
 {
